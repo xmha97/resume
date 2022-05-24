@@ -55,7 +55,7 @@ It was my first contact with programming. I started to learn how to code, and I 
 
 ## Languages
 
-* Portuguese - Native
+* Persian - Native
 * English - Advanced
 
 ## Skills
