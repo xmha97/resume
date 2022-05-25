@@ -55,8 +55,15 @@ It was my first contact with programming. I started to learn how to code, and I 
 
 ## Languages
 
-* Persian - Native
-* English - Advanced
+* Persian - Native  
+* English - Advanced  
+
+| Skill     | Progress                                        |
+|-----------|-------------------------------------------------|
+| Listening | ![█████░░░░░ 50%](https://progress-bar.dev/50) |
+| Speaking  | ![█████░░░░░ 50%](https://progress-bar.dev/50) |
+| Reading   | ![█████░░░░░ 50%](https://progress-bar.dev/50) |
+| Writing   | ![█████░░░░░ 50%](https://progress-bar.dev/50) |
 
 ## Skills
 
